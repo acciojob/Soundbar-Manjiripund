@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+#buttons{
+	background-color:#9932CC;
+	padding:20px;
+	display:flex;
+	flwx-wrap:wrap;
+	gap:10px;
+}
+.btn{
+	padding:10px 20px;
+	border:none;
+	border-radius:2px;
+	background-color:RebeccaPurple;
+	cursor:pointer;
+	color:white
+}
+.stop{
+	background-color:RebeccaPurple;
+	color:white;
+	padding:10px 20px;
+	border:none;
+	border-radius:5px;
+}
